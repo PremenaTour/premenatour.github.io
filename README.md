@@ -1,4 +1,4 @@
-## Hi there 👋
+Ahoj! PremenaTour.sk sa práve updejtuje
 
 <!--
 **PremenaTour/premenatour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
